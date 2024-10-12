@@ -16,7 +16,7 @@ let arr = [
   }
   
   function addData() {
-    const newPerson = { id: 4, name: "lisa", age: "22", profession: "designer" };
+    const newPerson = { id: 4, name: "susan", age: "20", profession: "intern" };
     arr.push(newPerson);
     console.log(arr);
   }
